@@ -1,1 +1,46 @@
 /* write your override styles here */
+body {
+  display: none;
+  background-color: blue
+}
+
+#wall .tag-1 {
+  display: none;
+  background-color: blue
+}
+
+
+#wall #tag-2 {
+  display: none;
+  background-color: blue
+}
+
+
+#wall #tag-3 {
+  display: none;
+  background-color: blue
+}
+
+
+
+#tag-4 {
+  display: none;
+  background-color: blue
+}
+
+
+#tag-5 {
+  display: none;
+  background-color: blue
+}
+
+
+#tag-6 {
+  display: none;
+  background-color: blue
+}
+
+#tag-7 {
+  display: none;
+  background-color: blue
+}
